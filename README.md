@@ -1,4 +1,11 @@
 # Employee-Dir
+
+
+Employee Dir Application a Java EE Program that will perform the following tasks: <br>
+i. use mysql database to store employees of five.  <br>
+ii. add particular Employee to the database. <br>
+iii. prompt user for a man number and request the server to retrieve the full record of that particular Employee. <br>
+
 <p>
   <img src="employee_list.PNG" alt="Start Server Screenshot" />
 </p>
