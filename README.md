@@ -12,9 +12,9 @@
 <p>
   <img src="employee_show.PNG" alt="Particular Record Details Screenshot" />
 </p>
-<p>3. Retrieve View</p>
+<p>3. View to retrieve View</p>
 
 <p>
   <img src="employee_result.PNG" alt="Particular Record Details Screenshot" />
 </p>
-<p>3. Retrieve the full record of a particular Employee</p>
+<p>4. Retrieve the full record of a particular Employee</p>
